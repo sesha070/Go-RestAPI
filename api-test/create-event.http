@@ -1,0 +1,10 @@
+POST http://localhost:8080/events
+content-type: application/json
+
+{
+   "name": "sesha",
+   "description": "test",
+   "location": "locations",
+   "dateTime": "2025-01-02T15:30:00.000Z"
+
+}
